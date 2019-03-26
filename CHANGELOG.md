@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.2.42"></a>
+## [2.2.42](https://github.com/microlink/microlink-www/compare/v2.2.41...v2.2.42) (2019-03-26)
+
+
+### Bug Fixes
+
+* **package:** update gatsby to version 2.3.0 ([91e1c04](https://github.com/microlink/microlink-www/commit/91e1c04))
+* **package:** update polished to version 3.1.0 ([409b237](https://github.com/microlink/microlink-www/commit/409b237))
+* **package:** update styled-components to version 4.2.0 ([39ff307](https://github.com/microlink/microlink-www/commit/39ff307))
+
+
+
 <a name="2.2.41"></a>
 ## [2.2.41](https://github.com/microlink/microlink-www/compare/v2.2.40...v2.2.41) (2019-03-21)
 
