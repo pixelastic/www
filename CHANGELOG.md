@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.12](https://github.com/microlink/microlink-www/compare/v2.3.11...v2.3.12) (2019-05-14)
+
+
+### Bug Fixes
+
+* storybook components path ([589e500](https://github.com/microlink/microlink-www/commit/589e500))
+
+
+
 ### [2.3.11](https://github.com/microlink/microlink-www/compare/v2.3.10...v2.3.11) (2019-05-14)
 
 
