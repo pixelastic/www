@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.28](https://github.com/microlink/microlink-www/compare/v2.3.27...v2.3.28) (2019-05-28)
+
+
+### Bug Fixes
+
+* **package:** update beauty-error to version 1.2.0 ([5d8af89](https://github.com/microlink/microlink-www/commit/5d8af89))
+
+
+
 ### [2.3.27](https://github.com/microlink/microlink-www/compare/v2.3.26...v2.3.27) (2019-05-27)
 
 
