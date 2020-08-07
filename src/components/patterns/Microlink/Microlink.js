@@ -4,6 +4,7 @@ import Microlink from '@microlink/react'
 import React from 'react'
 
 const media = [
+  'iframe',
   isFastConnection && 'video',
   isFastConnection && 'audio',
   'image',

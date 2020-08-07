@@ -4,6 +4,8 @@ import { Caption } from 'components/patterns'
 
 import { withSlug } from 'helpers/hoc'
 
+// TODO: SAY BYE BYE!
+
 const TitleConstructor = TitleComponnet => ({
   fontSize,
   fontWeight,
